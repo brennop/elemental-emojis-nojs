@@ -15,7 +15,7 @@ export default function (req: NowRequest, res: NowResponse) {
   );
 
   const state = new Set(
-    progress ? JSON.parse(progress) : ["water", "fire", "air", "earth"]
+    progress ? JSON.parse(progress) : ["water", "air", "fire", "earth"]
   );
 
   if (recipe) state.add(recipe.output);
@@ -50,9 +50,15 @@ function generateElement(string, value) {
 
   return `
   ${string}
-  <label class="primary" for=${element.name}>${element.emoji}</label>
+  <label class="primary" for=${element.name}>
+    <div>${element.emoji}</div>
+    <span>${element.displayName}</span>
+  </label>
   <button class="secondary">
-    <label for=${element.emoji}>${element.emoji}</label>
+    <label for=${element.emoji} class="${element.name}">
+      <div>${element.emoji}</div>
+      <span>${element.displayName}</span>
+    </label>
     <input type="checkbox" name=${element.name} id=${element.emoji} />
   </button>
   `;
@@ -70,6 +76,33 @@ function generateHiddenInputs(string, value) {
 
 const styles = `
 <style>
+  * {
+    cursor: default;
+    box-sizing: border-box;
+    font-size: 100%;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  body {
+    color: #333;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu,
+      Cantarell, "Helvetica Neue", "Noto Color Emoji", "Apple Color Emoji",
+      "Segoe UI Emoji", sans-serif;
+    padding: 1em
+  }
+
   input[type=checkbox] {
     display: none;
   }
@@ -84,6 +117,61 @@ const styles = `
 
   .normal:checked ~ .primary {
     display: none;
+  }
+
+  label {
+    border-radius: 0.8rem;
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    transition: 0.15s ease-out;
+    justify-content: space-between;
+
+    position: relative;
+    box-shadow: inset 0 0 0px 0px #2fd3fc20;
+  }
+
+  label:hover {
+    background: #2fd3fc20;
+  }
+
+  .selected {
+    box-shadow: inset 0 0 0px 6px #2fd3fc20;
+  }
+
+  form  {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(6em, 1fr));
+    gap: 1em;
+    align-content: start;
+    border: 1px solid #888;
+    border-radius: 1em;
+    padding: 1em;
+    overflow-y: auto;
+  }
+
+  label {
+    height: 6rem;
+    width: 6rem;
+  }
+
+  div  {
+    font-size: 2rem;
+    font-family: "Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji";
+  }
+
+  span  {
+    font-size: .8rem;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu,
+      Cantarell, "Helvetica Neue", "Noto Color Emoji", "Apple Color Emoji",
+      "Segoe UI Emoji", sans-serif;
+  }
+
+  button {
+    background: none;
+    border: none;
+    padding: 0;
   }
 </style>
 `;
