@@ -38,6 +38,7 @@ export default function (req: NowRequest, res: NowResponse) {
     ${[...state].reduce(generateHiddenInputs, "")}
     ${[...state].reduce(generateElement, "")}
   </form> 
+  <span class="progress">${[...state].length}/${elements.length}</span>
 </body>
 </html>
   `);
@@ -100,7 +101,10 @@ const styles = `
     font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu,
       Cantarell, "Helvetica Neue", "Noto Color Emoji", "Apple Color Emoji",
       "Segoe UI Emoji", sans-serif;
-    padding: 1em
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
   }
 
   input[type=checkbox] {
@@ -149,6 +153,7 @@ const styles = `
     border-radius: 1em;
     padding: 1em;
     overflow-y: auto;
+    flex: 1;
   }
 
   label {
@@ -159,6 +164,7 @@ const styles = `
   div  {
     font-size: 2rem;
     font-family: "Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji";
+    cursor: pointer;
   }
 
   span  {
@@ -172,6 +178,13 @@ const styles = `
     background: none;
     border: none;
     padding: 0;
+  }
+
+  .progress {
+    color: #bbb;
+    font-size: 4rem;
+    padding: 0.2em;
+    cursor: default;
   }
 </style>
 `;
