@@ -1,0 +1,779 @@
+[
+  {
+    "name": "ufo",
+    "displayName": "Flying Saucer",
+    "emoji": "🛸",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "ice",
+    "displayName": "Ice",
+    "emoji": "🧊",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "magnet",
+    "displayName": "Magnet",
+    "emoji": "🧲",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "glass",
+    "displayName": "Glass",
+    "emoji": "🔍",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "cactus",
+    "displayName": "Cactus",
+    "emoji": "🌵",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "city",
+    "displayName": "City",
+    "emoji": "🌆",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "pressure",
+    "displayName": "Pressure",
+    "emoji": "⬇",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "volt",
+    "displayName": "Electricity",
+    "emoji": "⚡",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "palm",
+    "displayName": "Palm",
+    "emoji": "🌴",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "fish",
+    "displayName": "Fish",
+    "emoji": "🐟",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "Axe",
+    "displayName": "Axe",
+    "emoji": "🪓",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "cyclone",
+    "displayName": "Cyclone",
+    "emoji": "🌀",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "santa",
+    "displayName": "Santa Claus",
+    "emoji": "🎅",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "water",
+    "displayName": "Water",
+    "emoji": "💦",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "metal",
+    "displayName": "Metal",
+    "emoji": "⛓",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "snowman",
+    "displayName": "Snowman",
+    "emoji": "⛄",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "angel",
+    "displayName": "Angel",
+    "emoji": "😇",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "alarm",
+    "displayName": "Alarm Clock",
+    "emoji": "⏰",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "time",
+    "displayName": "Time",
+    "emoji": "⏳",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "sky",
+    "displayName": "Sky",
+    "emoji": "⛅",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "cold",
+    "displayName": "Cold",
+    "emoji": "❄",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "bricks",
+    "displayName": "Bricks",
+    "emoji": "🧱",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "hot_spring",
+    "displayName": "Hot Spring",
+    "emoji": "♨",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "wave",
+    "displayName": "Wave",
+    "emoji": "〰",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "rainbow",
+    "displayName": "Rainbow",
+    "emoji": "🌈",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "diamond",
+    "displayName": "Diamond",
+    "emoji": "💎",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "air",
+    "displayName": "Air",
+    "emoji": "💨",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "comet",
+    "displayName": "Comet",
+    "emoji": "☄",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "tool",
+    "displayName": "Tool",
+    "emoji": "🔧",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "rocket",
+    "displayName": "Rocket",
+    "emoji": "🚀",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "plant",
+    "displayName": "Plant",
+    "emoji": "🌿",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "night",
+    "displayName": "Night",
+    "emoji": "🌃",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "lava",
+    "displayName": "Lava",
+    "emoji": "🩸",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "wolf",
+    "displayName": "Warewolf",
+    "emoji": "🐺",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "fog",
+    "displayName": "Fog",
+    "emoji": "🌫",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "thunderstorm",
+    "displayName": "Thunderstorm",
+    "emoji": "⛈",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "bacteria",
+    "displayName": "Bacteria",
+    "emoji": "🦠",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "butterfly",
+    "displayName": "Butterfly",
+    "emoji": "🦋",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "microphone",
+    "displayName": "Microphone",
+    "emoji": "🎤",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "energy",
+    "displayName": "Energy",
+    "emoji": "🔋",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "hasCraftables": 0,
+    "isCraftable": 1,
+    "name": "numbers",
+    "emoji": "🔢",
+    "displayName": "Numbers"
+  },
+  {
+    "name": "desert",
+    "displayName": "Desert",
+    "emoji": "🏜",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "alien",
+    "displayName": "Alien",
+    "emoji": "👽",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "life",
+    "displayName": "Life",
+    "emoji": "🧬",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "space",
+    "displayName": "Space",
+    "emoji": "🌌",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "robot",
+    "displayName": "Robot",
+    "emoji": "🤖",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "mount_fuji",
+    "displayName": "Mount Fuji",
+    "emoji": "🗻",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "moon",
+    "displayName": "Moon",
+    "emoji": "🌑",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "plasma",
+    "displayName": "Plasma",
+    "emoji": "🔮",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "house",
+    "displayName": "House",
+    "emoji": "🏠",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "tree",
+    "displayName": "Tree",
+    "emoji": "🌲",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "clock",
+    "displayName": "Clock",
+    "emoji": "⌚",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "music",
+    "displayName": "Music",
+    "emoji": "🎵",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "volcano",
+    "displayName": "Volcano",
+    "emoji": "🌋",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "bat",
+    "displayName": "Bat",
+    "emoji": "🦇",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "galaxy",
+    "displayName": "Galaxy",
+    "emoji": "💫",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "zombie",
+    "displayName": "Zombie",
+    "emoji": "🧟",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "mountain",
+    "displayName": "Mountain",
+    "emoji": "⛰",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "hasCraftables": 0,
+    "isCraftable": 1,
+    "name": "atom",
+    "emoji": "⚛",
+    "displayName": "Atom"
+  },
+  {
+    "name": "island",
+    "displayName": "Island",
+    "emoji": "🏝",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "gun",
+    "displayName": "Gun",
+    "emoji": "🔫",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "hasCraftables": 0,
+    "isCraftable": 1,
+    "name": "letters",
+    "emoji": "🔤",
+    "displayName": "Letters"
+  },
+  {
+    "name": "cloud",
+    "displayName": "Cloud",
+    "emoji": "☁",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "saturn",
+    "displayName": "Ringed Planet",
+    "emoji": "🪐",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "black_hole",
+    "displayName": "Black Hole",
+    "emoji": "🕳",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "sun",
+    "displayName": "Sun",
+    "emoji": "☀",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "explosion",
+    "displayName": "Explosion",
+    "emoji": "💥",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "fire",
+    "displayName": "Fire",
+    "emoji": "🔥",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "seedling",
+    "displayName": "Seedling",
+    "emoji": "🌱",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "rain",
+    "displayName": "Rain",
+    "emoji": "🌧",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "day",
+    "displayName": "Day",
+    "emoji": "🏙",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "light",
+    "displayName": "Light",
+    "emoji": "🔦",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "earth",
+    "displayName": "Earth",
+    "emoji": "🍪",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "bulb",
+    "displayName": "Light Bulb",
+    "emoji": "💡",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "ring",
+    "displayName": "Ring",
+    "emoji": "💍",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "shooting_star",
+    "displayName": "Shooting Star",
+    "emoji": "🌠",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "snow",
+    "displayName": "Snow",
+    "emoji": "🌨",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "ghost",
+    "displayName": "Ghost",
+    "emoji": "👻",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "tornado",
+    "displayName": "Tornado",
+    "emoji": "🌪",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "forest",
+    "displayName": "Forest",
+    "emoji": "🏞",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "lightning",
+    "displayName": "Lightning",
+    "emoji": "🌩",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "rock",
+    "displayName": "Rock",
+    "emoji": "🗿",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "beach",
+    "displayName": "Beach",
+    "emoji": "🏖",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "planet",
+    "displayName": "Planet",
+    "emoji": "🌍",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "xmas_tree",
+    "displayName": "Christmas Tree",
+    "emoji": "🎄",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "cooking",
+    "displayName": "Cooking",
+    "emoji": "🍳",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "death",
+    "displayName": "Death",
+    "emoji": "☠",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "smoke",
+    "displayName": "Smoke",
+    "emoji": "🚬",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "devil",
+    "displayName": "Devil",
+    "emoji": "😈",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "compass",
+    "displayName": "Compass",
+    "emoji": "🧭",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "gunpowder",
+    "displayName": "Gunpowder",
+    "emoji": "🎆",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "bird",
+    "displayName": "Bird",
+    "emoji": "🐦",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "mud",
+    "displayName": "Mud",
+    "emoji": "🔶",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "land",
+    "displayName": "Land",
+    "emoji": "🗾",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "sound",
+    "displayName": "Sound",
+    "emoji": "🔊",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "human",
+    "displayName": "Human",
+    "emoji": "🧑",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "vampire",
+    "displayName": "Vampire",
+    "emoji": "🧛‍♂️",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "star",
+    "displayName": "Star",
+    "emoji": "⭐",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "dust",
+    "displayName": "Dust",
+    "emoji": "✨",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "pickaxe",
+    "displayName": "Pickaxe",
+    "emoji": "⛏",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "wind",
+    "displayName": "Wind",
+    "emoji": "🌬",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "sand",
+    "displayName": "Sand",
+    "emoji": "🧽",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "bomb",
+    "displayName": "Bomb",
+    "emoji": "💣",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "bug",
+    "displayName": "Bug",
+    "emoji": "🐛",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "sea",
+    "displayName": "Sea",
+    "emoji": "🌊",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "salt",
+    "displayName": "Salt",
+    "emoji": "🧂",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "monkey",
+    "displayName": "Monkey",
+    "emoji": "🐒",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "plane",
+    "displayName": "Airplane",
+    "emoji": "✈",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "telescope",
+    "displayName": "Telescope",
+    "emoji": "🔭",
+    "hasCraftables": 0,
+    "isCraftable": 1
+  },
+  {
+    "name": "heat",
+    "displayName": "Heat",
+    "emoji": "🌡",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  },
+  {
+    "name": "egg",
+    "displayName": "Egg",
+    "emoji": "🥚",
+    "hasCraftables": 1,
+    "isCraftable": 1
+  }
+]

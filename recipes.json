@@ -1,0 +1,1008 @@
+[
+  {
+    "inputs": [
+      "life",
+      "metal"
+    ],
+    "output": "robot"
+  },
+  {
+    "inputs": [
+      "house"
+    ],
+    "output": "city"
+  },
+  {
+    "inputs": [
+      "metal",
+      "fire"
+    ],
+    "output": "rocket"
+  },
+  {
+    "inputs": [
+      "space",
+      "science"
+    ],
+    "output": "rocket"
+  },
+  {
+    "inputs": [
+      "life",
+      "tree"
+    ],
+    "output": "monkey"
+  },
+  {
+    "inputs": [
+      "day",
+      "night"
+    ],
+    "output": "time"
+  },
+  {
+    "inputs": [
+      "bacteria"
+    ],
+    "output": "bug"
+  },
+  {
+    "inputs": [
+      "heat",
+      "sea"
+    ],
+    "output": "hot_spring"
+  },
+  {
+    "inputs": [
+      "fog",
+      "cold"
+    ],
+    "output": "cloud"
+  },
+  {
+    "inputs": [
+      "life",
+      "air"
+    ],
+    "output": "bird"
+  },
+  {
+    "inputs": [
+      "air",
+      "wave"
+    ],
+    "output": "sound"
+  },
+  {
+    "inputs": [
+      "rock",
+      "planet"
+    ],
+    "output": "moon"
+  },
+  {
+    "inputs": [
+      "cold",
+      "life"
+    ],
+    "output": "snowman"
+  },
+  {
+    "inputs": [
+      "energy",
+      "cloud"
+    ],
+    "output": "lightning"
+  },
+  {
+    "inputs": [
+      "rain",
+      "seedling"
+    ],
+    "output": "plant"
+  },
+  {
+    "inputs": [
+      "fog",
+      "air"
+    ],
+    "output": "cloud"
+  },
+  {
+    "inputs": [
+      "rain",
+      "light"
+    ],
+    "output": "rainbow"
+  },
+  {
+    "inputs": [
+      "fog",
+      "pressure"
+    ],
+    "output": "cloud"
+  },
+  {
+    "inputs": [
+      "water",
+      "lava"
+    ],
+    "output": "rock"
+  },
+  {
+    "inputs": [
+      "sand"
+    ],
+    "output": "desert"
+  },
+  {
+    "inputs": [
+      "fire",
+      "mud"
+    ],
+    "output": "bricks"
+  },
+  {
+    "inputs": [
+      "bat",
+      "human"
+    ],
+    "output": "vampire"
+  },
+  {
+    "inputs": [
+      "tool",
+      "rock"
+    ],
+    "output": "pickaxe"
+  },
+  {
+    "inputs": [
+      "rain",
+      "land"
+    ],
+    "output": "seedling"
+  },
+  {
+    "inputs": [
+      "rock",
+      "space"
+    ],
+    "output": "comet"
+  },
+  {
+    "inputs": [
+      "rain",
+      "sun"
+    ],
+    "output": "rainbow"
+  },
+  {
+    "inputs": [
+      "mountain",
+      "fire"
+    ],
+    "output": "volcano"
+  },
+  {
+    "inputs": [
+      "alien",
+      "rocket"
+    ],
+    "output": "ufo"
+  },
+  {
+    "inputs": [
+      "clock",
+      "sound"
+    ],
+    "output": "alarm"
+  },
+  {
+    "inputs": [
+      "air",
+      "rock"
+    ],
+    "output": "sand"
+  },
+  {
+    "inputs": [
+      "water",
+      "cold"
+    ],
+    "output": "ice"
+  },
+  {
+    "inputs": [
+      "sea",
+      "volcano"
+    ],
+    "output": "island"
+  },
+  {
+    "inputs": [
+      "gunpowder",
+      "fire"
+    ],
+    "output": "explosion"
+  },
+  {
+    "inputs": [
+      "sound"
+    ],
+    "output": "music"
+  },
+  {
+    "inputs": [
+      "wind",
+      "energy"
+    ],
+    "output": "tornado"
+  },
+  {
+    "inputs": [
+      "plant",
+      "sun"
+    ],
+    "output": "tree"
+  },
+  {
+    "inputs": [
+      "life"
+    ],
+    "output": "bacteria"
+  },
+  {
+    "inputs": [
+      "water"
+    ],
+    "output": "sea"
+  },
+  {
+    "inputs": [
+      "bug",
+      "wind"
+    ],
+    "output": "butterfly"
+  },
+  {
+    "inputs": [
+      "tool",
+      "monkey"
+    ],
+    "output": "human"
+  },
+  {
+    "inputs": [
+      "egg",
+      "heat"
+    ],
+    "output": "cooking"
+  },
+  {
+    "inputs": [
+      "planet",
+      "ring"
+    ],
+    "output": "saturn"
+  },
+  {
+    "inputs": [
+      "fire",
+      "heat"
+    ],
+    "output": "plasma"
+  },
+  {
+    "inputs": [
+      "fire",
+      "air"
+    ],
+    "output": "energy"
+  },
+  {
+    "inputs": [
+      "hot_spring",
+      "energy"
+    ],
+    "output": "life"
+  },
+  {
+    "inputs": [
+      "sun",
+      "cloud"
+    ],
+    "output": "sky"
+  },
+  {
+    "inputs": [
+      "human",
+      "moon"
+    ],
+    "output": "wolf"
+  },
+  {
+    "inputs": [
+      "earth"
+    ],
+    "output": "land"
+  },
+  {
+    "inputs": [
+      "volcano",
+      "water"
+    ],
+    "output": "hot_spring"
+  },
+  {
+    "inputs": [
+      "sky",
+      "sun"
+    ],
+    "output": "day"
+  },
+  {
+    "inputs": [
+      "star",
+      "energy"
+    ],
+    "output": "shooting_star"
+  },
+  {
+    "inputs": [
+      "tool",
+      "sound"
+    ],
+    "output": "microphone"
+  },
+  {
+    "inputs": [
+      "volt",
+      "cloud"
+    ],
+    "output": "thunderstorm"
+  },
+  {
+    "inputs": [
+      "bird",
+      "night"
+    ],
+    "output": "bat"
+  },
+  {
+    "inputs": [
+      "sky",
+      "moon"
+    ],
+    "output": "night"
+  },
+  {
+    "inputs": [
+      "air",
+      "earth"
+    ],
+    "output": "dust"
+  },
+  {
+    "inputs": [
+      "bricks"
+    ],
+    "output": "house"
+  },
+  {
+    "inputs": [
+      "air"
+    ],
+    "output": "wind"
+  },
+  {
+    "inputs": [
+      "metal",
+      "sky"
+    ],
+    "output": "plane"
+  },
+  {
+    "inputs": [
+      "volt",
+      "cloud"
+    ],
+    "output": "lightning"
+  },
+  {
+    "inputs": [
+      "explosion",
+      "star"
+    ],
+    "output": "black_hole"
+  },
+  {
+    "inputs": [
+      "gunpowder",
+      "tool"
+    ],
+    "output": "gun"
+  },
+  {
+    "inputs": [
+      "volt",
+      "glass"
+    ],
+    "output": "bulb"
+  },
+  {
+    "inputs": [
+      "sand",
+      "land"
+    ],
+    "output": "island"
+  },
+  {
+    "inputs": [
+      "bird"
+    ],
+    "output": "egg"
+  },
+  {
+    "inputs": [
+      "pickaxe",
+      "rock"
+    ],
+    "output": "diamond"
+  },
+  {
+    "inputs": [
+      "mountain",
+      "lava"
+    ],
+    "output": "volcano"
+  },
+  {
+    "inputs": [
+      "pressure",
+      "earth"
+    ],
+    "output": "rock"
+  },
+  {
+    "inputs": [
+      "bug",
+      "air"
+    ],
+    "output": "butterfly"
+  },
+  {
+    "inputs": [
+      "rock",
+      "fire"
+    ],
+    "output": "metal"
+  },
+  {
+    "inputs": [
+      "sand",
+      "sea"
+    ],
+    "output": "beach"
+  },
+  {
+    "inputs": [
+      "metal",
+      "rock"
+    ],
+    "output": "magnet"
+  },
+  {
+    "inputs": [
+      "energy",
+      "volcano"
+    ],
+    "output": "explosion"
+  },
+  {
+    "inputs": [
+      "day",
+      "time"
+    ],
+    "output": "night"
+  },
+  {
+    "inputs": [
+      "time",
+      "life"
+    ],
+    "output": "death"
+  },
+  {
+    "inputs": [
+      "butterfly",
+      "wind"
+    ],
+    "output": "tornado"
+  },
+  {
+    "inputs": [
+      "gunpowder",
+      "metal"
+    ],
+    "output": "bomb"
+  },
+  {
+    "inputs": [
+      "mountain",
+      "snow"
+    ],
+    "output": "mount_fuji"
+  },
+  {
+    "inputs": [
+      "fire",
+      "planet"
+    ],
+    "output": "sun"
+  },
+  {
+    "inputs": [
+      "wind",
+      "rock"
+    ],
+    "output": "sand"
+  },
+  {
+    "inputs": [
+      "mountain",
+      "cold"
+    ],
+    "output": "mount_fuji"
+  },
+  {
+    "inputs": [
+      "island",
+      "sea"
+    ],
+    "output": "beach"
+  },
+  {
+    "inputs": [
+      "wind",
+      "thunderstorm"
+    ],
+    "output": "tornado"
+  },
+  {
+    "inputs": [
+      "sand",
+      "glass"
+    ],
+    "output": "time"
+  },
+  {
+    "inputs": [
+      "sea",
+      "tornado"
+    ],
+    "output": "cyclone"
+  },
+  {
+    "inputs": [
+      "energy",
+      "fire"
+    ],
+    "output": "explosion"
+  },
+  {
+    "inputs": [
+      "snow",
+      "life"
+    ],
+    "output": "snowman"
+  },
+  {
+    "inputs": [
+      "metal",
+      "energy"
+    ],
+    "output": "volt"
+  },
+  {
+    "inputs": [
+      "star"
+    ],
+    "output": "galaxy"
+  },
+  {
+    "inputs": [
+      "devil",
+      "sky"
+    ],
+    "output": "angel"
+  },
+  {
+    "inputs": [
+      "tree",
+      "desert"
+    ],
+    "output": "cactus"
+  },
+  {
+    "inputs": [
+      "diamond",
+      "metal"
+    ],
+    "output": "ring"
+  },
+  {
+    "inputs": [
+      "wind"
+    ],
+    "output": "cold"
+  },
+  {
+    "inputs": [
+      "magnet",
+      "metal"
+    ],
+    "output": "compass"
+  },
+  {
+    "inputs": [
+      "life",
+      "death"
+    ],
+    "output": "zombie"
+  },
+  {
+    "inputs": [
+      "life",
+      "space"
+    ],
+    "output": "alien"
+  },
+  {
+    "inputs": [
+      "time",
+      "night"
+    ],
+    "output": "day"
+  },
+  {
+    "inputs": [
+      "sand",
+      "heat"
+    ],
+    "output": "glass"
+  },
+  {
+    "inputs": [
+      "water",
+      "fire"
+    ],
+    "output": "smoke"
+  },
+  {
+    "inputs": [
+      "galaxy"
+    ],
+    "output": "space"
+  },
+  {
+    "inputs": [
+      "plasma",
+      "planet"
+    ],
+    "output": "star"
+  },
+  {
+    "inputs": [
+      "metal"
+    ],
+    "output": "tool"
+  },
+  {
+    "inputs": [
+      "salt",
+      "egg"
+    ],
+    "output": "cooking"
+  },
+  {
+    "inputs": [
+      "water",
+      "earth"
+    ],
+    "output": "mud"
+  },
+  {
+    "inputs": [
+      "star",
+      "planet"
+    ],
+    "output": "space"
+  },
+  {
+    "inputs": [
+      "life",
+      "fire"
+    ],
+    "output": "devil"
+  },
+  {
+    "inputs": [
+      "glass",
+      "space"
+    ],
+    "output": "telescope"
+  },
+  {
+    "inputs": [
+      "mud",
+      "heat"
+    ],
+    "output": "human"
+  },
+  {
+    "inputs": [
+      "tree",
+      "island"
+    ],
+    "output": "palm"
+  },
+  {
+    "inputs": [
+      "life",
+      "volt"
+    ],
+    "output": "robot"
+  },
+  {
+    "inputs": [
+      "water",
+      "life"
+    ],
+    "output": "fish"
+  },
+  {
+    "inputs": [
+      "water",
+      "cloud"
+    ],
+    "output": "rain"
+  },
+  {
+    "inputs": [
+      "wind",
+      "sea"
+    ],
+    "output": "wave"
+  },
+  {
+    "inputs": [
+      "land",
+      "sea"
+    ],
+    "output": "planet"
+  },
+  {
+    "inputs": [
+      "water",
+      "air"
+    ],
+    "output": "fog"
+  },
+  {
+    "inputs": [
+      "life",
+      "plant"
+    ],
+    "output": "bug"
+  },
+  {
+    "inputs": [
+      "air",
+      "energy"
+    ],
+    "output": "sound"
+  },
+  {
+    "inputs": [
+      "land",
+      "rock"
+    ],
+    "output": "mountain"
+  },
+  {
+    "inputs": [
+      "dust",
+      "fire"
+    ],
+    "output": "gunpowder"
+  },
+  {
+    "inputs": [
+      "fire",
+      "space"
+    ],
+    "output": "rocket"
+  },
+  {
+    "inputs": [
+      "sea",
+      "fire"
+    ],
+    "output": "smoke"
+  },
+  {
+    "inputs": [
+      "cold",
+      "rain"
+    ],
+    "output": "snow"
+  },
+  {
+    "inputs": [
+      "life",
+      "night"
+    ],
+    "output": "ghost"
+  },
+  {
+    "inputs": [
+      "fire",
+      "space"
+    ],
+    "output": "sun"
+  },
+  {
+    "inputs": [
+      "tree",
+      "cold"
+    ],
+    "output": "xmas_tree"
+  },
+  {
+    "inputs": [
+      "plant",
+      "rain"
+    ],
+    "output": "tree"
+  },
+  {
+    "inputs": [
+      "sea",
+      "sun"
+    ],
+    "output": "salt"
+  },
+  {
+    "inputs": [
+      "tool",
+      "time"
+    ],
+    "output": "clock"
+  },
+  {
+    "inputs": [
+      "tool",
+      "space"
+    ],
+    "output": "telescope"
+  },
+  {
+    "inputs": [
+      "pressure",
+      "rock"
+    ],
+    "output": "diamond"
+  },
+  {
+    "inputs": [
+      "tool",
+      "tree"
+    ],
+    "output": "Axe"
+  },
+  {
+    "inputs": [
+      "star",
+      "death"
+    ],
+    "output": "black_hole"
+  },
+  {
+    "inputs": [
+      "energy",
+      "rain"
+    ],
+    "output": "thunderstorm"
+  },
+  {
+    "inputs": [
+      "sun",
+      "seedling"
+    ],
+    "output": "plant"
+  },
+  {
+    "inputs": [
+      "life",
+      "seedling"
+    ],
+    "output": "bug"
+  },
+  {
+    "inputs": [
+      "xmas_tree",
+      "human"
+    ],
+    "output": "santa"
+  },
+  {
+    "inputs": [
+      "sand",
+      "fire"
+    ],
+    "output": "glass"
+  },
+  {
+    "inputs": [
+      "air",
+      "heat"
+    ],
+    "output": "pressure"
+  },
+  {
+    "inputs": [
+      "life",
+      "plasma"
+    ],
+    "output": "ghost"
+  },
+  {
+    "inputs": [
+      "diamond",
+      "tool"
+    ],
+    "output": "ring"
+  },
+  {
+    "inputs": [
+      "desert",
+      "plant"
+    ],
+    "output": "cactus"
+  },
+  {
+    "inputs": [
+      "cold",
+      "cloud"
+    ],
+    "output": "snow"
+  },
+  {
+    "inputs": [
+      "fire"
+    ],
+    "output": "heat"
+  },
+  {
+    "inputs": [
+      "tree"
+    ],
+    "output": "forest"
+  },
+  {
+    "inputs": [
+      "bulb",
+      "volt"
+    ],
+    "output": "light"
+  },
+  {
+    "inputs": [
+      "fire",
+      "earth"
+    ],
+    "output": "lava"
+  }
+]
