@@ -20,7 +20,10 @@ export default function (req: NowRequest, res: NowResponse) {
 
   if (recipe) state.add(recipe.output);
 
-  res.setHeader("Set-Cookie", `progress=${JSON.stringify([...state])}`);
+  res.setHeader(
+    "Set-Cookie",
+    `progress=${JSON.stringify([...state])}; Max-Age=31557600`
+  );
 
   res.send(`
 <!doctype html>
